@@ -1,2 +1,2 @@
 # Prueba
-Este es un repositorio para repasar ramas, git y github
+## Este es un repositorio para repasar ramas, git y github
